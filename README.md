@@ -1,6 +1,6 @@
 # Niklas Zwiers · AI-NLAS
 
-*E-learning met AI, nagekeken door een mens.*
+*AI-made e-learning, checked by a human.*
 
 I'm Niklas, based in Amsterdam. I run **AI-NLAS**, where I make e-learning with AI: clear online courses, short instructional videos, and practice exercises that live inside the learning platform. I check the work myself, and client material only goes live after a content review.
 
@@ -25,5 +25,5 @@ Tools I use: Pluvo, HTML/JS, and AI for video, voice-over and illustration.
 
 ## Contact
 
-- Website: [website komt binnenkort]
+- Website: [website coming soon]
 - Email: [niklas.zwiers@outlook.com](mailto:niklas.zwiers@outlook.com)
