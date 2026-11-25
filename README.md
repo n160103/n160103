@@ -18,9 +18,6 @@ A website is on the way.
 **Client e-learning — placeholder, pending permission**  
 For a professional training centre I have built and improved live courses: lesson structure, short recap videos, questions with feedback, and in-course exercises. The client name and project details stay out of this profile until I have permission to share them.
 
-**Early public projects**  
-Small web experiments from 2025: [To-Do-App](https://github.com/n160103/To-Do-App), [Color-App](https://github.com/n160103/Color-App), [Live-Clock](https://github.com/n160103/Live-Clock).
-
 Tools I use: Pluvo, HTML/JS, and AI for video, voice-over and illustration.
 
 ## Contact
